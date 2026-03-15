@@ -156,9 +156,9 @@ Despite the volume of orders across a geographically large country, 91.89% of de
 
 **Page 3 — Customer Intelligence**
 
-!\[Customer Intelligence](dashboard/screenshots/customer\_intelligence.png)
+!\[Customer Intelligence](dashboard/screenshots\customer_intelligence.png)
 
-dashboard/screenshots/customer_intelligence.png
+dashboard/screenshots\customer_intelligence.png
 
 
 
