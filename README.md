@@ -148,7 +148,6 @@ Despite the volume of orders across a geographically large country, 91.89% of de
 !\[Revenue Overview](dashboard/screenshots/revenue\_overview.png)
 
 
-
 **Page 2 — Operational Health**
 
 !\[Operational Health](dashboard/screenshots/operational\_health.png)
@@ -159,6 +158,7 @@ Despite the volume of orders across a geographically large country, 91.89% of de
 
 !\[Customer Intelligence](dashboard/screenshots/customer\_intelligence.png)
 
+dashboard/screenshots/customer_intelligence.png
 
 
 
