@@ -145,12 +145,12 @@ Despite the volume of orders across a geographically large country, 91.89% of de
 
 **Page 1 — Revenue Overview**
 
-!\[Revenue Overview](dashboard/screenshots/revenue/overview.png)
+!\[Revenue Overview](dashboard/screenshots/revenue_overview.png)
 
 
 **Page 2 — Operational Health**
 
-!\[Operational Health](dashboard/screenshots/operational/health.png)
+!\[Operational Health](dashboard/screenshots/operational_health.png)
 
 
 
